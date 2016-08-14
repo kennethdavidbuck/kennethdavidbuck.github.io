@@ -19,8 +19,8 @@ github: https://github.com/kennethdavidbuck
 disqus_shortname: "kennethbuck"
 #google_analytics: UA-75008396-1
 
-paginate: 2
-comments: false
+paginate: 5
+comments: true
 paginate_path: "/page/:num"
 
 sass:
