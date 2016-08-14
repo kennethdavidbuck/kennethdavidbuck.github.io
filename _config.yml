@@ -28,4 +28,4 @@ sass:
 
 # Build settings
 markdown  : kramdown
-permalink : /:title/
+permalink : /:categories/:title/
