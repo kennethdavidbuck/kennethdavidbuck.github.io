@@ -2,7 +2,7 @@
   <header class="post-header">
     <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <span class="post-meta">
-      <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
       <span class="post-author">by {{ site.author.name }}</span>
     </span>
   </header>
