@@ -6,11 +6,14 @@ baseurl: ""
 url: "http://kennethbuck.ca"
 
 author:
-  name     : 'Kenneth Buck'
-  email    : kenneth at kennethbuck dot ca
-  url      : http://kennethbuck.ca
+  name      : 'Kenneth Buck'
+  email     : kenneth at kennethbuck dot ca
+  url       : http://kennethbuck.ca
 #  facebook : http://facebook.com/fernando.dev
-  twitter  : https://twitter.com/kdbuck
+  twitter   : https://twitter.com/kdbuck
+  github    : https://github.com/kennethdavidbuck
+  googleplus: https://plus.google.com/u/0/111219532177253049109/posts/p/pub
+  linkedin  : https://www.linkedin.com/in/kdbuck
 
 github: https://github.com/kennethdavidbuck
 # disqus_shortname: "fernandomoreira"
