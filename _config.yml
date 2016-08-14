@@ -16,8 +16,8 @@ author:
   linkedin  : https://www.linkedin.com/in/kdbuck
 
 github: https://github.com/kennethdavidbuck
-# disqus_shortname: "fernandomoreira"
-# google_analytics: UA-52446115-1
+disqus_shortname: "kennethbuck"
+#google_analytics: UA-52446115-1
 
 paginate: 2
 comments: false
